@@ -1,0 +1,128 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bd8eed;
+}
+header{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 60px 20px 60px 20px;
+    box-shadow: 7px 5px 5px rgb(12, 12, 37);
+    background-color: #fff2ff;
+}
+
+section{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 40px;
+    box-shadow: 7px 5px 5px rgb(12, 12, 37);
+    background-color: #fff2ff;
+}
+
+footer {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px 60px 20px 60px;
+    box-shadow: 7px 5px 5px rgb(12, 12, 37);
+    background-color: #fff2ff;
+}
+
+nav {
+    list-style-type: none;
+    padding: 0;
+    display: inline;
+    margin-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    display: inline;
+    margin-right: 10px;
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+#pSobrenos {
+    margin-left: 550px;
+    display: flex;
+    margin-top: -250px;
+    font-size: 19px;  
+    padding: 40px;
+    background-color: #77477e;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+#h2Sobrenos {
+    margin-left: 200px;
+    margin-top: 150px;
+    margin-bottom: 120px;
+}
+
+
+
+#cliente1 {
+    text-align: left; 
+    padding: 20px;
+    background-color: #77477e;
+    margin-right: 950px;
+    border-radius: 20px;
+}
+
+#cliente2 {
+    text-align: center;
+    margin-top: -72px;
+    padding: 20px;
+    background-color: #77477e;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 20px;
+}
+
+#cliente3 {
+    text-align: right;
+    margin-top: -72px;
+    padding: 20px;
+    background-color: #77477e;
+    margin-left: 950px;
+    border-radius: 20px;
+}
+
+#pClientes {
+    margin-top: -100px;
+}
+
+#liDweb {
+    margin-left: 155px;
+    margin-bottom: -40px;
+    margin-top: 40px;
+}
+
+#desenvolvimentoWeb {
+    display: flex;
+    padding: 50px;
+    background-color: #77477e;
+    margin-right: 670px;
+    border-radius: 20px;
+}
+
+#liDgrafico {
+    text-align: right;
+    margin-right: 200px;
+    margin-top: -208px;
+}
+
+#designGrafico {
+    display: flex;
+    margin-left: 670px;
+    padding: 50px;
+    background-color: #77477e;
+    border-radius: 20px;  
+    margin-top: -57px;  
+}
