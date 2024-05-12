@@ -65,8 +65,6 @@ li {
     margin-bottom: 120px;
 }
 
-
-
 #cliente1 {
     text-align: left; 
     padding: 20px;
@@ -125,4 +123,35 @@ li {
     background-color: #77477e;
     border-radius: 20px;  
     margin-top: -57px;  
+}
+
+#projeto1 {
+    text-align: left;
+    padding: 20px;
+    background-color: #77477e;
+    margin-right: 950px;
+    border-radius: 20px;
+}
+
+#projeto2 {
+    text-align: center;
+    margin-top: -72px;
+    padding: 20px;
+    background-color: #77477e;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 20px;
+}
+
+#projeto3 {
+    text-align: right;
+    margin-top: -75px;
+    padding: 20px;
+    background-color: #77477e;
+    margin-left: 950px;
+    border-radius: 20px;
+}
+
+#telefone {
+    
 }
